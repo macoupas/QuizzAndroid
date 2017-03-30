@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Quizz</string>
+    <string name="one_p">1 player</string>
+    <string name="two_p">2 players</string>
+    <string name="selection">Sélectionnez un questionnaire</string>
+    <string name="recherche">Recherche d\'adversaire</string>
+    <string name="quizzName">Quizz</string>
+    <string name="Question">Question</string>
+    <string name="Reponse1">Reponse 1</string>
+    <string name="Reponse2">Reponse 2</string>
+    <string name="Reponse3">Reponse 3</string>
+    <string name="Reponse4">Reponse 4</string>
+</resources>
